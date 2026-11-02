@@ -268,6 +268,43 @@ const MODULES_PART_1 = [
           <a class="resource-card" href="https://www.msha.gov/safety-and-health/safety-and-health-initiatives/powered-haulage-safety" target="_blank" rel="noopener noreferrer"><strong>MSHA powered-haulage safety initiative</strong><span>Current MSHA powered-haulage initiative (not the old one-pager)</span></a>
         </div>
       </div>
+      <div class="content-section official-resource-panel">
+        <div class="official-resource-heading">
+          <div>
+            <span class="resource-badge resource-badge-required">Required instructor review</span>
+            <span class="resource-badge">Official MSHA fatality alert</span>
+            <h3>Struck by a Loader While on Foot (October 5, 2026)</h3>
+          </div>
+          <span class="document-meta">1-page PDF · MSHA Fatality Alert</span>
+        </div>
+        <p>On October 5, 2026, a miner died after a front-end loader struck him while he was crossing an equipment travelway. MSHA lists it as the 26th mining death of 2026 and the seventh classified as powered haulage. This alert is based on preliminary information. MSHA has not yet released its final report on the cause.</p>
+        <p>This is the blind-area lesson above in real life. A person on foot crossing in front of or beside a loader can be in the shaded zone where the operator cannot see them. A backup alarm, a mirror, or eye contact does not prove the operator knows you are there.</p>
+        <ul>
+          <li><strong>Talk before you move:</strong> when you work near mobile equipment, tell the operator where you are going and make sure they acknowledge you before you step into the travelway.</li>
+          <li><strong>Keep people and machines apart:</strong> MSHA calls for traffic-control rules that cut down how often people on foot are around mobile equipment, such as marked walkways and set crossing points. Use the crossings your site provides. Do not take a shortcut across a travelway.</li>
+          <li><strong>Be seen at night:</strong> work areas need good lighting, and miners need high-visibility reflective clothing. Keep the reflective material clean enough to work.</li>
+          <li><strong>Train operators and use technology:</strong> operators must be trained on their machine using the manufacturer's manual. MSHA also asks mines to look at proximity detection and to have a written Surface Mobile Equipment Safety Program that covers struck-by hazards, traffic, operator visibility, and training.</li>
+        </ul>
+        <p>Ask the instructor where people on foot cross travelways at this mine, how crossings are marked, and what radio or signal procedure is used to get an operator's acknowledgment.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="/assets/docs/msha-2026-10-05-loader-pedestrian-fatality-alert.pdf" target="_blank" rel="noopener">
+            <strong>Open the classroom copy ↗</strong>
+            <span>Reliable local copy of the MSHA fatality alert</span>
+          </a>
+          <a class="resource-card" href="https://www.msha.gov/sites/default/files/Data_Reports/Fatals/Enforcement/2026/October%205%2C%202026%20-%20Fatality%20Alert.pdf" target="_blank" rel="noopener noreferrer">
+            <strong>Open the official MSHA PDF ↗</strong>
+            <span>Original agency-hosted fatality alert</span>
+          </a>
+        </div>
+        <details class="document-embed">
+          <summary>Preview the fatality alert in this module</summary>
+          <div class="document-frame-wrap">
+            <object class="document-frame" data="/assets/docs/msha-2026-10-05-loader-pedestrian-fatality-alert.pdf#view=FitH" type="application/pdf">
+              <p>Your browser cannot display the PDF here. <a href="/assets/docs/msha-2026-10-05-loader-pedestrian-fatality-alert.pdf" target="_blank" rel="noopener">Open the classroom copy</a>.</p>
+            </object>
+          </div>
+        </details>
+      </div>
       <div class="content-section">
         <h3>Communications & Warning Signals</h3>
         <p>Know how to use the mine communication system (phones, radios, leaky feeder, etc.) and the meaning of all warning signals and directional signs. In an emergency, clear, calm communication saves lives.</p>
@@ -381,6 +418,44 @@ const MODULES_PART_1 = [
         <div class="warning-box"><strong>Scope:</strong> trainees are not being trained to conduct blasting or confined-space entry. They must know boundaries, warning signals, withdrawal rules, and that bins, hoppers, chutes, crushers, and tanks cannot be entered or cleared without the mine's authorization and full procedure.</div>
       </div>
 
+      <div class="content-section official-resource-panel">
+        <div class="official-resource-heading">
+          <div>
+            <span class="resource-badge">Seasonal hazard alert</span>
+            <span class="resource-badge">Official MSHA safety alert</span>
+            <h3>Seasonal Hazards: MSHA Winter Safety in Mining (2026)</h3>
+          </div>
+          <span class="document-meta">1-page PDF · MSHA Safety Alert</span>
+        </div>
+        <p>Hazard recognition changes with the season. MSHA's 2026 winter alert says winter brings a sharp rise in slips, trips, falls, vehicle accidents, and cold-stress injuries at both surface and underground mines. Snow, ice, and freeze-thaw cycles weaken roads, highwalls, benches, and walkways. Dry winter air can weaken underground roof rock. Long cold exposure can cause hypothermia and frostbite. MSHA says most winter injuries can be prevented.</p>
+        <ul>
+          <li><strong>Get equipment ready:</strong> before the cold arrives, check batteries, fuel lines, brakes, cab heaters, and defrosters, and look for exhaust leaks. Make these part of the pre-operation check on every machine.</li>
+          <li><strong>Clear snow and ice:</strong> keep roads, walkways, ramps, and work areas clear. Use salt and sand where needed. Keep windshields, mirrors, and lights free of snow and ice. This ties to the slip, trip, and fall material earlier in this module.</li>
+          <li><strong>Drive for the conditions:</strong> slow down, leave more following distance, always wear your seat belt, and watch for black ice on haul roads. In a whiteout, snow can hide berms, drop-offs, damaged road, and other vehicles. Slow down, turn on headlights and beacons, stay in radio contact, and stop if you cannot see the road ahead.</li>
+          <li><strong>Check the ground after weather changes:</strong> look at highwalls, benches, and roadways after every rain, freeze, or thaw. Underground, watch for changing roof conditions and ventilation. Module 7 covers ground control.</li>
+          <li><strong>Protect against cold stress:</strong> wear insulated, layered, waterproof clothing. Use warm shelters and hot drinks. Do cold jobs during the warmest part of the day when you can. Learn the signs of hypothermia and frostbite so you can spot them in yourself and in coworkers. Module 10 covers first aid.</li>
+        </ul>
+        <p>A ramp, stair, or plant walkway that was safe last week can be a fall hazard after one freeze. Ask the instructor which areas at this mine ice up first and how snow and ice are handled.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="/assets/docs/msha-winter-safety-alert-2026.pdf" target="_blank" rel="noopener">
+            <strong>Open the classroom copy ↗</strong>
+            <span>Reliable local copy of the MSHA winter safety alert</span>
+          </a>
+          <a class="resource-card" href="https://www.msha.gov/sites/default/files/Alerts%20and%20Hazards/Safety%20Alert%20-%20Winter%20Alert%202026.pdf" target="_blank" rel="noopener noreferrer">
+            <strong>Open the official MSHA PDF ↗</strong>
+            <span>Original agency-hosted winter safety alert</span>
+          </a>
+        </div>
+        <details class="document-embed">
+          <summary>Preview the winter safety alert in this module</summary>
+          <div class="document-frame-wrap">
+            <object class="document-frame" data="/assets/docs/msha-winter-safety-alert-2026.pdf#view=FitH" type="application/pdf">
+              <p>Your browser cannot display the PDF here. <a href="/assets/docs/msha-winter-safety-alert-2026.pdf" target="_blank" rel="noopener">Open the classroom copy</a>.</p>
+            </object>
+          </div>
+        </details>
+        <div class="key-box"><strong>Use it every year:</strong> this alert fits the start of each winter and the annual refresher. The hazards are not new, but they come back every season, and the first freeze is when people get caught off guard.</div>
+      </div>
       <div class="content-section">
         <h3>Personal Practices</h3>
         <ul>
