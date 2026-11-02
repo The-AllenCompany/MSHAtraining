@@ -69,6 +69,49 @@ const MODULES_PART_2 = [
         </details>
         <div class="key-box"><strong>Case-study note:</strong> Young Mine is a lead-zinc mine, not limestone, and bulk stoping differs from our room-and-pillar work. Take the principle, not the mining method: hazardous ground is taken down or supported before anyone works or travels beneath it. The site ground-control plan and the instructor control.</div>
       </div>
+      <div class="content-section official-resource-panel">
+        <div class="official-resource-heading">
+          <div>
+            <span class="resource-badge resource-badge-required">Required instructor review</span>
+            <span class="resource-badge">MSHA final report</span>
+            <h3>Surface Case Study: Retaining Wall Collapse (March 3, 2026)</h3>
+          </div>
+          <span class="document-meta">11-page PDF · MSHA Report of Investigation</span>
+        </div>
+        <p>On March 3, 2026, a 63-year-old contract miner was killed at an industrial sand mine in San Antonio, Texas. He had 40 years of concrete construction experience but only about 16 days of mining experience. He was working inside a 3-foot-deep footing trench for a new retaining wall, dug in front of an old one. The old wall was made of 800-pound concrete blocks stacked four high, about 8 feet tall. The blocks were not tied together. They just sat on top of each other.</p>
+        <p>The mine knew the wall was leaning and unstable. In February, the engineer recommended taking off the top two rows of blocks. On the day of the accident, the engineer saw they were still there and recommended again that they come off before work continued. Managers let the work go on anyway. A man lift was traveling on the ground above the wall, and a mini excavator was moved into the trench closer to the wall. At 1:08 p.m., an 80-foot section of the wall fell into the trench and crushed him.</p>
+        <ul>
+          <li><strong>Same rule as Young Mine, surface version:</strong> MSHA cited 30 CFR § 56.3200, the surface twin of the § 57.3200 rule in the case above. Hazardous ground must be taken down or supported before anyone works or travels in the area. Because managers knew about the hazard and let work continue, MSHA cited it as an unwarrantable failure.</li>
+          <li><strong>Ground control is more than roof and highwalls:</strong> stacked blocks, retaining walls, trench sides, stockpiles, and banks can all fall or slide. If something above or beside you looks like it is leaning, cracked, or loose, treat it as unsupported ground.</li>
+          <li><strong>Keep loads off the edge:</strong> MSHA also cited the mine for not using barricades or warning signs to keep mobile equipment from running above the wall. Weight and vibration near an unstable edge make it worse.</li>
+          <li><strong>A known hazard still has to be fixed first:</strong> no one did a workplace exam that day, but MSHA said that did not cause the accident because the hazard was already known. Knowing about a hazard does not make it safe. It has to be corrected or the area kept clear.</li>
+          <li><strong>Contractors need training too:</strong> the contractor did not give the required new miner training, and the mine did not give site-specific hazard awareness training. Years of experience off the mine site do not replace knowing this site's hazards.</li>
+        </ul>
+        <p>After the accident, the wall was removed and the slope was graded, barricades were added to stop vehicle traffic above the sloped area, and the mine set up a procedure to check training for all contractors.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="/assets/docs/msha-2026-03-03-retaining-wall-collapse-final-report.pdf" target="_blank" rel="noopener">
+            <strong>Open the classroom copy ↗</strong>
+            <span>Reliable local copy of the MSHA final report</span>
+          </a>
+          <a class="resource-card" href="https://www.msha.gov/sites/default/files/Data_Reports/Fatals/Enforcement/2026/March%203%2C%202026%20-%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer">
+            <strong>Open the official MSHA PDF ↗</strong>
+            <span>Original agency-hosted final report</span>
+          </a>
+          <a class="resource-card" href="https://www.ecfr.gov/current/title-30/section-56.3200" target="_blank" rel="noopener noreferrer">
+            <strong>30 CFR § 56.3200</strong>
+            <span>Correction of hazardous ground conditions at surface mines</span>
+          </a>
+        </div>
+        <details class="document-embed">
+          <summary>Preview the final report in this module</summary>
+          <div class="document-frame-wrap">
+            <object class="document-frame" data="/assets/docs/msha-2026-03-03-retaining-wall-collapse-final-report.pdf#view=FitH" type="application/pdf">
+              <p>Your browser cannot display the PDF here. <a href="/assets/docs/msha-2026-03-03-retaining-wall-collapse-final-report.pdf" target="_blank" rel="noopener">Open the classroom copy</a>.</p>
+            </object>
+          </div>
+        </details>
+        <div class="key-box"><strong>Case-study note:</strong> this was a sand mine under Part 46 training rules, and our miners train under Part 48. The lesson carries over: if you can see that ground or material near you is unstable, stop, get clear, and report it. You do not have to wait for someone else to call it.</div>
+      </div>
 
       <div class="video-box">
         <p style="font-weight:600;">Required Attention Time</p>
@@ -580,6 +623,43 @@ const MODULES_PART_2 = [
           <a class="resource-card" href="https://www.msha.gov/sites/default/files/Training_Education/OT%2055%20-%20Part%2048%20Reference%20Guide.pdf" target="_blank" rel="noopener"><strong>MSHA Part 48 reference guide</strong><span>Training subjects, task-training framework, and documentation</span></a>
           <a class="resource-card" href="https://www.cdc.gov/niosh/docs/mining/works/coversheet18.html" target="_blank" rel="noopener"><strong>NIOSH job task analysis</strong><span>Structured analysis of task steps, hazards, and controls</span></a>
         </div>
+      </div>
+      <div class="content-section official-resource-panel">
+        <div class="official-resource-heading">
+          <div>
+            <span class="resource-badge resource-badge-required">Required instructor review</span>
+            <span class="resource-badge">MSHA final report</span>
+            <h3>Case Study: Water Tanker Trailer Tip-Over (April 30, 2026)</h3>
+          </div>
+          <span class="document-meta">13-page PDF · MSHA Report of Investigation</span>
+        </div>
+        <p>On April 30, 2026, a 23-year-old laborer with about one year and three months of mining experience was killed at a portable sand and gravel crushing operation near Weiser, Idaho. He was filling an 8,400-gallon water tanker trailer used for dust control and screening. The trailer had been unhooked from the semi-truck and parked on a dirt road that was uneven and rutted. Wooden blocks were put under the landing gear to try to level it, but the two sides were still about 9 inches apart in height. While the tank filled, he sat on the ground with his back against the rear tires. As the water weight built up on the uneven ground, the trailer leaned, the landing gear slipped off the block, and the trailer rolled over onto him.</p>
+        <p>For 30 days, crews had filled the trailer every day while it was still hooked to the truck. This time it was unhooked, and there was no procedure for that. MSHA found two root causes: the trailer was loaded in a way that let it fall on a worker, and the mine's Surface Mobile Equipment Safety Program had no procedure to make sure the trailer was on level ground or otherwise stabilized when filled while unhooked. MSHA cited 30 CFR § 56.9201 and § 56.23003(a)(1).</p>
+        <ul>
+          <li><strong>A different way of doing a routine job is a new task:</strong> filling the tank was routine. Filling it unhooked, on uneven ground, was not. Use the safe work procedure steps above any time the equipment, location, or condition changes.</li>
+          <li><strong>Think about gravity and changing conditions:</strong> the trailer was stable when parked and got less stable as it filled. When you list hazards at each step, ask what will change as the job goes on.</li>
+          <li><strong>Stay out of the line of fire:</strong> never sit, stand, or rest where a load, trailer, or machine could tip, roll, or fall onto you.</li>
+          <li><strong>An exam is not a guarantee:</strong> the morning workplace exam did not find a problem, because the trailer was stable at that time. MSHA said the exam did not cause the accident. The hazard came from the task, so the procedure has to cover it.</li>
+        </ul>
+        <p>After the accident, the operator supplied enough blocking and cribbing material, wrote a policy for parking, blocking, and cribbing the trailer whenever it is unhooked, and trained all miners on it. Discuss with the instructor how water trucks, tanks, and trailers are parked and filled at this mine.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="/assets/docs/msha-2026-04-30-water-tanker-trailer-final-report.pdf" target="_blank" rel="noopener">
+            <strong>Open the classroom copy ↗</strong>
+            <span>Reliable local copy of the MSHA final report</span>
+          </a>
+          <a class="resource-card" href="https://www.msha.gov/sites/default/files/Data_Reports/Fatals/Enforcement/2026/April%2030%2C%202026%20-%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer">
+            <strong>Open the official MSHA PDF ↗</strong>
+            <span>Original agency-hosted final report</span>
+          </a>
+        </div>
+        <details class="document-embed">
+          <summary>Preview the final report in this module</summary>
+          <div class="document-frame-wrap">
+            <object class="document-frame" data="/assets/docs/msha-2026-04-30-water-tanker-trailer-final-report.pdf#view=FitH" type="application/pdf">
+              <p>Your browser cannot display the PDF here. <a href="/assets/docs/msha-2026-04-30-water-tanker-trailer-final-report.pdf" target="_blank" rel="noopener">Open the classroom copy</a>.</p>
+            </object>
+          </div>
+        </details>
       </div>
       <div class="video-box">
         <p style="font-weight:600;">Required Attention Time</p>
