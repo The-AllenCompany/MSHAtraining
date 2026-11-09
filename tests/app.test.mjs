@@ -80,6 +80,25 @@ test('branded learner experience keeps regulatory context and a clear next actio
   assert.match(app, /div\.addEventListener\('keydown'/);
 });
 
+test('November 2026 MSHA alerts and final reports are hosted locally in their modules', () => {
+  const docs = [
+    ['msha-2026-10-05-loader-pedestrian-fatality-alert.pdf', modulesPartOne, 4],
+    ['msha-winter-safety-alert-2026.pdf', modulesPartOne, 5],
+    ['msha-2026-03-03-retaining-wall-collapse-final-report.pdf', modulesPartTwo, 7],
+    ['msha-2026-04-30-water-tanker-trailer-final-report.pdf', modulesPartTwo, 12]
+  ];
+  for (const [file, source, moduleId] of docs) {
+    const full = path.join(root, 'assets', 'docs', file);
+    assert.ok(fs.existsSync(full), `${file} is in assets/docs`);
+    assert.equal(fs.readFileSync(full).subarray(0, 5).toString(), '%PDF-', `${file} is a real PDF`);
+    const start = source.indexOf(`id: ${moduleId},`);
+    const end = source.indexOf('\n  {\n    id:', start + 1);
+    const moduleText = source.slice(start, end === -1 ? undefined : end);
+    assert.ok(moduleText.includes(`/assets/docs/${file}`), `${file} is linked from module ${moduleId}`);
+  }
+  assert.match(modulesPartTwo, /section-56\.3200/);
+});
+
 test('trial-ready resources include the official miners rights handout and three site aerial views', () => {
   assert.ok(fs.existsSync(path.join(root, 'assets', 'docs', 'msha-miners-rights-trifold.pdf')));
   assert.match(modulesPartOne, /\/assets\/docs\/msha-miners-rights-trifold\.pdf/);
