@@ -63,7 +63,7 @@ The production copy is often hosted on **Netlify** as `index.html`. After edits 
 
 ## Accounts and data (Supabase)
 
-Sign-in and training records live in the dedicated Supabase project **msha-training** (`igxvqobqcdykfzhsjnyd`, us-east-2), used only by this site.
+Sign-in and training records live in the dedicated Supabase project **msha-training** (`igxvqobqcdykfzhsjnyd`, us-east-2), used only by this site. The project belongs to the **Allen Safety** organization in Supabase (moved there on 2026-11-13; the project ID, URL and API keys did not change). To manage accounts or records in the Supabase dashboard, you need to be a member of Allen Safety.
 
 - **Accounts:** Supabase Auth. Trainees can create their own learner account from the start page (**Create learner account**) and are signed in immediately (email confirmation is off because the project has no email server); set `LEARNER_SELF_SIGNUP` in `src/supabase-config.mjs` to `false` (and turn off **Allow new users to sign up** in Supabase) to go invitation-only. Instructors create accounts from **Trainee Records → Invite a trainee or instructor** and get a **one-time link** to send the person (text or email); the person opens it and chooses a password. For anyone who can't sign in (forgotten password, or migrated from Netlify), the instructor opens their record and uses **Create password link**. Every link is audit-logged. Instructor access is only ever by invitation.
 - **Roles:** `public.profiles.role` is `learner` or `instructor`. New accounts are always learners; only the server (invite endpoint) or SQL can promote someone. Users cannot change their own role.
